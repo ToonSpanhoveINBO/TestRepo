@@ -5,6 +5,9 @@ repo als folder
 
 readme
 git.ignore: files die niet weggeschreven worden 
-license : mig
+license : mit is standaard op INBO
+
+verwijzen naar lijn in code:
+rechtermuis
 
 eindig steeds met lege lijn onderaan
