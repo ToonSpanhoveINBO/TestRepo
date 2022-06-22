@@ -1,6 +1,9 @@
 # TestRepo
 code gemaakt tijdens opleiding_20220622
 
+[github/inbo/git-course
+](https://github.com/inbo/git-course)
+
 repo als folder
 
 readme
