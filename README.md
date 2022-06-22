@@ -8,6 +8,6 @@ git.ignore: files die niet weggeschreven worden
 license : mit is standaard op INBO
 
 verwijzen naar lijn in code:
-rechtermuis
+klik op nummertje naast lijn: copy permalink
 
 eindig steeds met lege lijn onderaan
